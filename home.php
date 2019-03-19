@@ -12,7 +12,7 @@
     	<div class="col-md-3 col-sm-3 col-xs-12 left-sidebar">
     	  <div class="input-group searchbox">
     	  <div class="input-group-btn">
-    	    <center><a href="Includes/find_friends.php"><button class="btn btn-default search-icon" name="search_user" type="submit">Add New user</button></a>
+    	    <center><a href="Includes/find_friends.php"><button class="btn btn-default search-icon" name="search_user" type="submit">Add New user for fun</button></a>
     	    	
     	    </center>
     	  	
